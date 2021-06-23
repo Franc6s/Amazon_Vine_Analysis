@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-The purpose of this analysis was to filter the review table and find out :
+### The purpose of this analysis was to filter the review table and find out :
 
 ### 1) review id with a total vote over 20
 
